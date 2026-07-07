@@ -1,0 +1,269 @@
+MEDICAL PHARMACOLOGY CORPUS
+
+
+DIABETES MANAGEMENT
+
+Type 2 diabetes mellitus is a chronic metabolic disorder characterized by elevated blood glucose levels due to insulin resistance or inadequate insulin secretion. Effective treatment includes lifestyle modification along with medications that improve glycemic control, reduce cardiovascular risk, and prevent long-term complications.
+
+
+METFORMIN
+
+It is a biguanide antihyperglycemic agent commonly used as first-line therapy for type 2 diabetes mellitus. It is one of the most widely prescribed diabetes medications worldwide.
+
+Metformin decreases glucose production in the liver and improves insulin sensitivity in body tissues. This helps the body use insulin more effectively and lowers blood sugar levels.
+
+It is primarily used to treat type 2 diabetes. It may also be prescribed for prediabetes, gestational diabetes, polycystic ovary syndrome (PCOS), and medication-associated weight gain in selected patients.
+
+Metformin improves glycemic control, supports modest weight loss, may improve cholesterol levels, and provides cardiovascular benefits. It also carries a low risk of hypoglycemia when used alone.
+
+Common side effects include nausea, diarrhea, and stomach discomfort. Long-term use may reduce vitamin B12 levels. It should be used cautiously in patients with significant kidney or liver disease.
+
+
+
+EMPAGLIFLOZIN
+
+It is a sodium-glucose co-transporter 2 (SGLT2) inhibitor used for diabetes, heart failure, and kidney disease management.
+
+It lowers blood glucose by preventing glucose reabsorption in the kidneys, causing excess sugar to be excreted in the urine.
+
+It is used to treat type 2 diabetes, reduce cardiovascular risk, lower hospitalization rates in heart failure, and slow the progression of chronic kidney disease.
+
+Empagliflozin improves blood sugar control, promotes mild weight loss, lowers blood pressure, protects kidney function, and reduces the risk of heart failure-related hospitalization.
+
+Common side effects include increased urination and thirst. It may increase the risk of urinary tract infections, genital infections, dehydration, and ketoacidosis. Adequate hydration is recommended during treatment.
+
+
+
+DAPAGLIFLOZIN
+
+It is an SGLT2 inhibitor used for managing type 2 diabetes, heart failure, and chronic kidney disease.
+
+It works by increasing urinary glucose excretion through the kidneys, helping lower blood sugar levels without stimulating insulin production.
+
+It is prescribed for type 2 diabetes, heart failure, and chronic kidney disease to improve long-term cardiovascular and renal outcomes.
+
+Dapagliflozin lowers blood sugar, supports modest weight loss, reduces blood pressure, decreases heart failure hospitalization, and slows kidney disease progression.
+
+Common side effects include increased urination, dehydration, urinary tract infections, and genital fungal infections. Rarely, ketoacidosis may occur. Patients should maintain adequate fluid intake.
+
+
+
+SEMAGLUTIDE
+
+It is a glucagon-like peptide-1 (GLP-1) receptor agonist used for type 2 diabetes management and weight reduction.
+
+It increases insulin release when blood sugar levels are elevated, suppresses glucagon secretion, slows gastric emptying, and promotes satiety.
+
+It is used to improve blood sugar control in type 2 diabetes, support weight loss, and reduce cardiovascular risk in selected patients.
+
+Semaglutide provides significant reductions in blood glucose and body weight. It also lowers cardiovascular risk, improves blood pressure, and may support kidney health.
+
+Common side effects include nausea, vomiting, diarrhea, constipation, and abdominal discomfort. Serious precautions include pancreatitis, gallbladder disease, and severe gastrointestinal symptoms.
+
+
+
+TIRZEPATIDE
+
+It is an incretin-based medication used for type 2 diabetes treatment and weight management.
+
+It enhances insulin secretion, reduces glucagon release, slows stomach emptying, and decreases appetite, resulting in improved glucose control and weight reduction.
+
+It is used to treat type 2 diabetes, support weight loss, and manage obesity-related conditions such as obstructive sleep apnea.
+
+Tirzepatide produces substantial weight loss, improves glycemic control, lowers blood pressure, improves lipid profiles, and reduces cardiovascular risk factors.
+
+Common side effects include nausea, vomiting, diarrhea, constipation, and reduced appetite. Serious adverse effects may include pancreatitis and severe allergic reactions.
+
+
+
+LIRAGLUTIDE
+
+It is a GLP-1 receptor agonist used for type 2 diabetes management and chronic weight control.
+
+It increases insulin secretion in response to elevated blood glucose, decreases glucagon production, slows gastric emptying, and promotes feelings of fullness.
+
+It is prescribed for type 2 diabetes, weight management, and cardiovascular risk reduction in patients with diabetes and heart disease.
+
+Liraglutide improves blood sugar control, supports weight loss, lowers cardiovascular risk, and may improve overall metabolic health.
+
+Common side effects include nausea, vomiting, diarrhea, constipation, headache, and decreased appetite. Rare but serious concerns include pancreatitis and kidney-related complications.
+
+
+
+
+HEART FAILURE MANAGEMENT
+
+Heart failure is a clinical syndrome in which the heart is unable to pump sufficient blood to meet the body's needs. Modern pharmacological therapy aims to improve symptoms, reduce hospitalizations, enhance cardiac function, and decrease mortality.
+
+
+SACUBITRIL / VALSARTAN
+
+They are angiotensin receptor-neprilysin inhibitor (ARNI) used to treat heart failure with reduced ejection fraction (HFrEF). It combines sacubitril, a neprilysin inhibitor, with valsartan, an angiotensin receptor blocker (ARB).
+
+Sacubitril increases beneficial natriuretic peptides that promote vasodilation and sodium excretion, while valsartan blocks the effects of angiotensin II, reducing blood vessel constriction and cardiac stress.
+
+It is used to reduce the risk of hospitalization and cardiovascular death in adults with heart failure and to treat certain pediatric heart failure patients.
+
+Sacubitril/valsartan improves heart function, reduces hospitalization rates, lowers cardiovascular mortality, enhances blood flow, and improves quality of life in patients with heart failure.
+
+Common side effects include cough and fatigue. Serious reactions may include angioedema, rash, swelling of the face or throat, and breathing difficulties.
+
+
+
+CARVEDILOL
+
+It is a beta-blocker used to treat hypertension, heart failure, and improve survival following a heart attack.
+
+It blocks beta receptors, slows heart rate, and relaxes blood vessels, reducing the workload on the heart and improving blood circulation.
+
+It is prescribed for heart failure, high blood pressure, and post-myocardial infarction management.
+
+Carvedilol lowers blood pressure, improves heart function, reduces hospitalization in heart failure, improves survival after heart attack, and provides antioxidant and anti-inflammatory effects.
+
+Common side effects include dizziness and diarrhea. Serious adverse effects may include bradycardia, worsening heart failure symptoms, chest pain, swelling, and severe allergic reactions.
+
+
+
+BISOPROLOL
+
+It is a selective beta-blocker commonly used for hypertension, chronic heart failure, and certain cardiac rhythm disorders.
+
+It slows the heart rate and reduces the force of cardiac contraction, lowering blood pressure and reducing oxygen demand on the heart.
+
+It is used to treat hypertension, chronic heart failure, angina, and arrhythmias such as atrial fibrillation.
+
+Bisoprolol lowers blood pressure, improves heart failure outcomes, reduces hospitalization risk, relieves angina symptoms, and helps control abnormal heart rhythms.
+
+Common side effects include fatigue, dizziness, headache, nausea, and sleep disturbances. Serious effects may include chest pain, fainting, shortness of breath, and worsening heart failure.
+
+
+
+SPIRONOLACTONE
+
+It is an aldosterone receptor antagonist used to treat heart failure, hypertension, fluid retention, and conditions associated with excess aldosterone production.
+
+It blocks the action of aldosterone, promoting sodium and water excretion while conserving potassium, reducing fluid overload and cardiac stress.
+
+It is used in heart failure, resistant hypertension, edema associated with liver or kidney disease, and primary hyperaldosteronism.
+
+Spironolactone improves survival in heart failure, reduces hospitalization, lowers blood pressure, decreases fluid retention, and improves overall cardiac function.
+
+Common side effects include stomach discomfort, breast tenderness, menstrual irregularities, and fatigue. Serious risks include hyperkalemia, dehydration, kidney dysfunction, and cardiac rhythm abnormalities.
+
+
+
+FUROSEMIDE
+
+It is a loop diuretic commonly known as a water pill that is used to remove excess fluid from the body.
+
+It increases the excretion of sodium and water through the kidneys, reducing fluid overload and lowering blood pressure.
+
+It is used to treat edema associated with heart failure, kidney disease, liver disease, and hypertension.
+
+Furosemide reduces swelling, improves breathing in patients with pulmonary edema, lowers blood pressure, and helps manage fluid retention.
+
+Common side effects include frequent urination, headache, constipation, and diarrhea. Serious complications may include dehydration, electrolyte imbalances, hearing disturbances, and kidney dysfunction.
+
+
+
+IVABRADINE
+
+It is a heart-rate-lowering medication classified as a hyperpolarization-activated cyclic nucleotide-gated (HCN) channel blocker.
+
+It selectively slows the heart rate by inhibiting HCN channels in the sinoatrial node without significantly affecting blood pressure or cardiac contractility.
+
+It is used to reduce hospitalization risk in patients with chronic heart failure and to improve symptoms in selected patients with angina.
+
+Ivabradine lowers heart rate, improves exercise tolerance, reduces heart failure-related hospitalizations, relieves angina symptoms, and is useful in patients with low blood pressure who cannot tolerate higher doses of beta-blockers.
+
+Common side effects include dizziness and visual disturbances. Serious adverse effects may include bradycardia, irregular heart rhythm, worsening shortness of breath, chest pain, and severe allergic reactions.
+
+
+
+
+CARDIOVASCULAR PROTECTION & PREVENTION
+
+Cardiovascular disease prevention focuses on reducing the risk of heart attack, stroke, and other vascular complications. Pharmacological management includes antiplatelet therapy, cholesterol-lowering medications, blood pressure control, and strategies that improve long-term cardiovascular outcomes.
+
+
+ASPIRIN
+
+It is a salicylate medication commonly used for pain relief, fever reduction, inflammation control, and cardiovascular protection.
+
+It blocks substances involved in pain, inflammation, fever, and platelet aggregation, reducing blood clot formation.
+
+It is used to relieve mild pain, reduce fever, prevent heart attacks and strokes, and reduce the risk of recurrent cardiovascular events.
+
+Aspirin helps prevent blood clots, lowers the risk of heart attack and stroke, relieves pain, reduces inflammation, and is commonly used in cardiovascular disease prevention.
+
+Common side effects include stomach pain, nausea, vomiting, and heartburn. Serious risks include gastrointestinal bleeding, allergic reactions, and bleeding complications.
+
+
+
+ATORVASTATIN
+
+It is a statin medication used to lower cholesterol levels and reduce cardiovascular risk.
+
+It inhibits HMG-CoA reductase, a liver enzyme involved in cholesterol production, resulting in lower LDL cholesterol levels.
+
+It is used to treat high cholesterol and reduce the risk of heart attack, stroke, and other cardiovascular complications.
+
+Atorvastatin lowers LDL cholesterol and triglycerides, increases HDL cholesterol, stabilizes arterial plaques, reduces inflammation, and protects against cardiovascular events.
+
+Common side effects include diarrhea, heartburn, gas, and joint pain. Rare but serious effects include muscle injury, liver dysfunction, and severe allergic reactions.
+
+
+
+CLOPIDOGREL
+
+It is an antiplatelet medication used to prevent harmful blood clot formation.
+
+It prevents platelets from sticking together, reducing the risk of clot formation in arteries.
+
+It is used to prevent recurrent heart attacks and strokes, manage acute coronary syndrome, treat peripheral arterial disease, and prevent clotting after stent placement.
+
+Clopidogrel reduces cardiovascular events, improves blood flow, protects coronary stents, and lowers the risk of recurrent stroke and heart attack.
+
+Common side effects include headache, dizziness, stomach discomfort, and nosebleeds. Serious risks include excessive bleeding, allergic reactions, and rare blood disorders.
+
+
+
+RAMIPRIL
+
+It is an angiotensin-converting enzyme (ACE) inhibitor used for hypertension, heart failure, and cardiovascular protection.
+
+It blocks the formation of angiotensin II, causing blood vessels to relax and reducing the workload on the heart.
+
+It is used to treat high blood pressure, improve survival after heart attack, reduce cardiovascular risk, and protect kidney function in high-risk patients.
+
+Ramipril lowers blood pressure, improves heart failure outcomes, protects the kidneys, reduces stroke risk, and improves long-term survival.
+
+Common side effects include cough, dizziness, headache, fatigue, and stomach upset. Serious reactions include angioedema, kidney impairment, and severe allergic reactions.
+
+
+
+LOSARTAN
+
+It is an angiotensin II receptor blocker (ARB) used to treat hypertension and protect cardiovascular and kidney health.
+
+It blocks the action of angiotensin II, allowing blood vessels to relax and improving blood flow.
+
+It is used to treat hypertension, reduce stroke risk in patients with left ventricular hypertrophy, and slow kidney disease progression in type 2 diabetes.
+
+Losartan lowers blood pressure, reduces cardiovascular risk, protects kidney function, and improves long-term outcomes in high-risk patients.
+
+Common side effects include muscle pain, diarrhea, heartburn, and weakness. Serious adverse effects may include allergic reactions, swelling, breathing difficulties, and chest pain.
+
+
+
+ROSUVASTATIN
+
+It is a statin medication used to lower cholesterol and reduce cardiovascular risk.
+
+It inhibits cholesterol synthesis in the liver, reducing LDL cholesterol and improving lipid profiles.
+
+It is used to manage high cholesterol, prevent heart attacks and strokes, and treat patients at high cardiovascular risk.
+
+Rosuvastatin significantly lowers LDL cholesterol, reduces triglycerides, stabilizes arterial plaques, and lowers the risk of major cardiovascular events.
+
+Common side effects include headache, stomach discomfort, constipation, joint pain, and dizziness. Serious complications may include muscle injury, liver dysfunction, kidney problems, and severe allergic reactions.
