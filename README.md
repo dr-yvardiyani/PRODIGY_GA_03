@@ -1,53 +1,115 @@
 # PRODIGY_GA_03
-Medical Pharmacology Text Generator using Markov Chains | Prodigy InfoTech Generative AI Internship Task 3
 
-Project Overview
+## Medical Pharmacology Text Generator using Markov Chains
 
-This project demonstrates a simple medical text generation system built using Markov Chains. A custom pharmacology corpus was created containing information about medications used in diabetes management, heart failure treatment, and cardiovascular risk reduction.
+## Overview
 
-The model learns word transition patterns from the dataset and generates new medical-style sentences based on user-provided drug names.
+This project demonstrates a healthcare-focused text generation system built using Markov Chains. A custom pharmacology corpus was created containing information about medications used in diabetes management, heart failure treatment, and cardiovascular risk reduction.
 
-Technologies Used
-Python
-Markovify
-Google Colab
-Dataset
+The model learns word transition patterns from the dataset and generates new pharmacology-related sentences from user-provided drug names.
 
-Custom pharmacology corpus containing:
+This project showcases how probabilistic language models can generate domain-specific medical text without requiring deep learning or large language models.
 
-Antidiabetic medications
-Heart failure medications
-Cardiovascular prevention drugs
+## Project Objective
 
-Examples include:
+Develop a domain-specific text generation system capable of generating coherent pharmacology-related text from a custom healthcare corpus using Markov Chains.
 
-Metformin
-Empagliflozin
-Dapagliflozin
-Tirzepatide
-Aspirin
-Atorvastatin
+## Dataset
+
+Custom medical pharmacology corpus containing:
+
+18 medication profiles
+
+15,009 characters
+
+1,987 words
+
+## Topics Included
+
+### Diabetes Management
+
+- Metformin
+- Empagliflozin
+- Dapagliflozin
+- Semaglutide
+- Tirzepatide
+- Liraglutide
+
+### Heart Failure Treatment
+
+- Sacubitril/Valsartan
+- Carvedilol
+- Bisoprolol
+- Spironolactone
+- Furosemide
+- Ivabradine
+
+### Cardiovascular Risk Reduction
+
+- Aspirin
+- Atorvastatin
+- Clopidogrel
+- Ramipril
+- Losartan
+- Rosuvastatin
+
+## Technologies Used
+
+- Python
+- Markovify
+- Google Colab
+
+## Model Details
+
+- Algorithm: Markov Chain Text Generation
+- Library Used: Markovify
+- State Sizes Evaluated: 2 and 3
+- Input Method: User-provided drug name
+- Output: Pharmacology-related generated text
+
+## Sample Input
+
 Rosuvastatin
-Ramipril
-Project Workflow
-Create custom medical pharmacology dataset
-Load corpus into Python
-Train Markov Chain model
-Compare different state sizes
-Generate medical-style text from drug names
-Results
 
-The model successfully generated coherent pharmacology-related sentences while maintaining medical terminology learned from the corpus.
-
-Sample Output
-
-Input:
-
-Rosuvastatin
-
-Output:
+## Sample Generated Output
 
 Rosuvastatin significantly lowers LDL cholesterol, reduces triglycerides, stabilizes arterial plaques, and reduces inflammation.
-Screenshots
 
-(Add screenshots below after upload)
+## Repository Structure
+
+PRODIGY_GA_03
+│
+├── screenshots/
+│   ├── task3_project_setup.png
+│   ├── task3_dataset_loading.png
+│   ├── task3_markov_state2.png
+│   ├── task3_markov_state3.png
+│   └── task3_text_generation_demo.png
+│
+├── .gitignore
+├── LICENSE
+├── medical_pharmacology_corpus.txt
+├── PRODIGY_GA_03_MedTextGen_MarkovChains.ipynb
+├── requirements.txt
+└── README.md
+
+## Screenshots
+
+### Project Setup
+![Project Setup](screenshots/task3_project_setup.png)
+
+### Dataset Loading
+![Dataset Loading](screenshots/task3_dataset_loading.png)
+
+### Markov Model (State Size 2)
+![Markov State 2](screenshots/task3_markov_state2.png)
+
+### Markov Model (State Size 3)
+![Markov State 3](screenshots/task3_markov_state3.png)
+
+### Text Generation Demo
+![Text Generation Demo](screenshots/task3_text_generation_demo.png)
+
+## Internship Information
+
+Completed as part of the Generative AI Internship Program at Prodigy InfoTech.
