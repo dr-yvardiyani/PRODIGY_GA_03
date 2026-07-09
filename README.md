@@ -1,5 +1,7 @@
 # PRODIGY_GA_03
 
+## Task 03 - Generative AI Internship @ Prodigy InfoTech
+
 ## Medical Pharmacology Text Generator using Markov Chains
 
 ## Overview
@@ -67,6 +69,22 @@ Custom medical pharmacology corpus containing:
 - Input Method: User-provided drug name
 - Output: Pharmacology-related generated text
 
+## Project Workflow
+
+1. Created a custom pharmacology corpus covering multiple therapeutic areas.
+2. Loaded and preprocessed the dataset.
+3. Built Markov Chain models using Markovify.
+4. Evaluated different state sizes for text generation.
+5. Generated pharmacology-related text from drug name prompts.
+6. Compared generated outputs for coherence and relevance.
+
+## Results
+
+- Successfully generated healthcare-focused text using Markov Chains.
+- Produced pharmacology-related content from user-provided drug names.
+- Demonstrated domain-specific text generation without deep learning models.
+- Evaluated text generation performance using multiple state sizes.
+  
 ## Sample Input
 
 Rosuvastatin
@@ -109,7 +127,3 @@ PRODIGY_GA_03
 
 ### Text Generation Demo
 ![Text Generation Demo](screenshots/task3_text_generation_demo.png)
-
-## Internship Information
-
-Completed as part of the Generative AI Internship Program at Prodigy InfoTech.
